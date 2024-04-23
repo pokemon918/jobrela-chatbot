@@ -1,2 +1,14 @@
-utils/venv
-utils/.env
+
+backend/myenv
+backend/.env
+backend/.idea
+backend/__pycache__
+
+frontend/node_modules
+
+professional/venv
+professional/.env
+professional/__pycache__
+
+project/venv
+project/.env

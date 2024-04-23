@@ -1,0 +1,27 @@
+email is lucasrimocii@gmail.com.
+name is Slovak.
+phone is .
+active is True.
+categories is [Javascript Developer, PHP Developer].
+skillsets is [PHP].
+localities is [Remote].
+specialities is [].
+availabilityOption is BY_AGREEMENT.
+languageIds is [{'_id': 'CS', 'name': 'Czech', 'description': 'Czech language dsescription', 'color': '#777700', 'principal': 'info@eprovement.com', '_class': 'com.eprovement.bd.contacts.language.Language'}, {'_id': 'EN', 'name': 'English', 'description': 'English language dsescription', 'color': '#110000', 'principal': 'info@eprovement.com', '_class': 'com.eprovement.bd.contacts.language.Language'}, {'_id': 'SK', 'name': 'Slovak', 'description': 'Slovak language dsescription', 'color': '#119999', 'principal': 'info@eprovement.com', '_class': 'com.eprovement.bd.contacts.language.Language'}].
+shortSummary is None.
+workExperience is None.
+privateDescription is None.
+currency is CZK.
+accountManager is novacik@eprovement.com.
+level is None.
+resumeText is None.
+countryOrigin is None.
+countryOriginAlt is None.
+employmentProjectTypeWage is 0.
+availability is None.
+description is None.
+employmentProjectTypeSuperGrossWageCZK is 0.
+freelanceProjectTypeWage is 0.
+freelanceProjectTypeWagePro is 0.
+freelanceProjectTypeSuperGrossWageCZK is 0.
+superGrossWageCZK is 0.

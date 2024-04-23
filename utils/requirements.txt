@@ -1,4 +1,0 @@
-pinecone-client==2
-openai
-jsonref
-python-dotenv
